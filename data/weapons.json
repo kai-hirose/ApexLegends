@@ -1,0 +1,16 @@
+{
+    "flatline": {
+        "body": 18,
+        "head": 32,
+        "legs": 14,
+        "rpm": 600,
+        "magSize": [19, 23, 27, 29]
+    },
+    "lstar": {
+        "body": 17,
+        "head": 26,
+        "legs": 14,
+        "rpm": 600,
+        "magSize": [24, 26, 28, 30]
+    }
+}
